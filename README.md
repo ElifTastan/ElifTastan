@@ -1,9 +1,10 @@
 ## Hi there 👋
+With 30+ years of experience deeply rooted in system analysis and systems engineering, I have a long-standing passion for systems and data analysis. In 2024, I made a strategic decision to fully specialize in my core passion: data analytics. I am thoroughly enjoying the process of honing my technical skills and gaining hands-on expertise in Power BI, DAX, SQL, Azure, Excel, Python etc. and pursuing relevant Microsoft certifications. I am also actively developing my skills in AI solutions for data analytics.
 
 <!--
 **ElifTastan/ElifTastan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-With 30+ years of experience deeply rooted in system analysis and systems engineering, I have a long-standing passion for systems and data analysis. In 2024, I made a strategic decision to fully specialize in my core passion: data analytics. I am thoroughly enjoying the process of honing my technical skills and gaining hands-on expertise in Power BI, DAX, SQL, Azure, Excel, Python etc. and pursuing relevant Microsoft certifications. I am also actively developing my skills in AI solutions for data analytics.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
