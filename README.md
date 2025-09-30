@@ -2,9 +2,8 @@
 With 30+ years of experience deeply rooted in system analysis and systems engineering, I have a long-standing passion for systems and data analysis. In 2024, I made a strategic decision to fully specialize in my core passion: data analytics. I am thoroughly enjoying the process of honing my technical skills and gaining hands-on expertise in Power BI, DAX, SQL, Azure, Excel, Python etc. and pursuing relevant Microsoft certifications. I am also actively developing my skills in AI solutions for data analytics.
 I am open to collaborating on data visualization and data analysis projects using Power BI, MS SQL, and Python at an introductory level.
 If you have an opportunity or project where I can contribute, please feel free to reach out. I would be grateful to connect.
-You can contact me via the information below.
 
-- 📫 How to reach me: edtastan@gmail.com
+- 📫 You can contact me via edtastan@gmail.com
 
 <!--
 **ElifTastan/ElifTastan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
