@@ -1,11 +1,19 @@
 ## 👋Hi there, I'm Elif from Turkiye
-With 30+ years of experience deeply rooted in system analysis and systems engineering, I have a long-standing passion for systems and data analysis. In 2024, I made a strategic decision to fully specialize in my core passion: data analytics. I am thoroughly enjoying the process of honing my technical skills and gaining hands-on expertise in Power BI, DAX, SQL, Azure, Excel, Python etc. and pursuing relevant Microsoft certifications. I am also actively developing my skills in AI solutions for data analytics.
+30+ years in system analysis and engineering, now fully focused on data analytics since 2024. Hands-on experience with Power BI, DAX, SQL, Azure, Excel, and Python, alongside relevant Microsoft certifications.
 
-I also share what I learn through my YouTube channel, Elif Tastan, where I create Power BI tutorial videos focused on practical, bite-sized problem-solving — one question, one solution at a time.
+🎥 **I create Power BI tutorial videos on YouTube** — [Elif Tastan](https://www.youtube.com/@eliftastan) — practical, bite-sized problem-solving, one question at a time.
 
-I am open to collaborating on data visualization and data analysis projects using Power BI, MS SQL, and Python at an introductory level. If you have an opportunity or project where I can contribute, please feel free to reach out. I would be grateful to connect.
+Open to collaboration on data visualization and analysis projects using Power BI, MS SQL, and Python. Feel free to reach out!
 
+* 📫 [edtastan@gmail.com](mailto:edtastan@gmail.com)
 
+30 yılı aşkın süredir sistem analizi ve mühendisliği alanında çalışıyorum, 2024'ten beri tamamen veri analitiğine odaklanmış durumdayım. Power BI, DAX, SQL, Azure, Excel ve Python konularında uygulamalı deneyime ve ilgili Microsoft sertifikalarına sahibim.
+
+🎥 **YouTube'da Power BI eğitim videoları hazırlıyorum** — [Elif Tastan](https://www.youtube.com/@eliftastan) — pratik, kısa ve öz problem çözme, her seferinde bir soruya cevap.
+
+Power BI, MS SQL ve Python kullanarak veri görselleştirme ve analiz projelerinde iş birliğine açığım. İletişime geçmekten çekinmeyin!
+
+* 📫 [edtastan@gmail.com](mailto:edtastan@gmail.com)
 
 - 📫 You can contact me via edtastan@gmail.com
 
