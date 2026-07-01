@@ -5,7 +5,7 @@
 
 Open to collaboration on data visualization and analysis projects using Power BI, MS SQL, and Python. Feel free to reach out!
 
-You can contact me via [edtastan@gmail.com](mailto:edtastan@gmail.com)
+You can contact me via [merhaba@eliftastan.com](mailto:merhaba@eliftastan.com)
 
 30 yılı aşkın süredir sistem analizi ve mühendisliği alanında çalışıyorum, 2024'ten beri tamamen veri analitiğine odaklanmış durumdayım. Power BI, DAX, SQL, Azure, Excel ve Python konularında uygulamalı deneyime ve ilgili Microsoft sertifikalarına sahibim.
 
@@ -13,7 +13,7 @@ You can contact me via [edtastan@gmail.com](mailto:edtastan@gmail.com)
 
 Power BI, MS SQL ve Python kullanarak veri görselleştirme ve analiz projelerinde iş birliğine açığım. İletişime geçmekten çekinmeyin!
 
-You can contact me via [edtastan@gmail.com](mailto:edtastan@gmail.com)
+You can contact me via [merhaba@eliftastan.com](mailto:merhaba@eliftastan.com)
 
 <!--
 **ElifTastan/ElifTastan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
