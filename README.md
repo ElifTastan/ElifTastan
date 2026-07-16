@@ -13,7 +13,7 @@ You can contact me via [merhaba@eliftastan.com](mailto:merhaba@eliftastan.com)
 
 Power BI, MS SQL ve Python kullanarak veri görselleştirme ve analiz projelerinde iş birliğine açığım. İletişime geçmekten çekinmeyin!
 
-You can contact me via [merhaba@eliftastan.com](mailto:merhaba@eliftastan.com)
+İletişim: [merhaba@eliftastan.com](mailto:merhaba@eliftastan.com)
 
 <!--
 **ElifTastan/ElifTastan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
